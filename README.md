@@ -1,1 +1,1 @@
-# discovery3.github.io
+# stargazeriq.github.io
